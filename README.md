@@ -2,6 +2,9 @@
 
 Link to our latex report: https://www.overleaf.com/project/69dee6a89637524f6583b00b
 
+Link to leaderboard: https://huggingface.co/spaces/cis4190/NewsHeadlineClassifier
+(All submissions start with "team_32" are our submissions.)
+
 ## Getting Started
 
 ### 1. Clone the Repository

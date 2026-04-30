@@ -1,0 +1,37 @@
+{
+  "model": "char_wb_tfidf_logreg",
+  "seed": 42,
+  "test_size": 0.2,
+  "accuracy": 0.7947368421052632,
+  "macro_f1": 0.7915479882692997,
+  "n_rows": 3798,
+  "n_train": 3038,
+  "n_val": 760,
+  "classification_report": {
+    "FoxNews": {
+      "precision": 0.7687224669603524,
+      "recall": 0.8725,
+      "f1-score": 0.8173302107728337,
+      "support": 400.0
+    },
+    "NBC": {
+      "precision": 0.8333333333333334,
+      "recall": 0.7083333333333334,
+      "f1-score": 0.7657657657657657,
+      "support": 360.0
+    },
+    "accuracy": 0.7947368421052632,
+    "macro avg": {
+      "precision": 0.8010279001468429,
+      "recall": 0.7904166666666668,
+      "f1-score": 0.7915479882692997,
+      "support": 760.0
+    },
+    "weighted avg": {
+      "precision": 0.7993276141896591,
+      "recall": 0.7947368421052632,
+      "f1-score": 0.7929049473484331,
+      "support": 760.0
+    }
+  }
+}

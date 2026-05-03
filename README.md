@@ -1,9 +1,9 @@
 # CIS5190-Team-32-Repo
 
-Link to our latex report: https://www.overleaf.com/project/69dee6a89637524f6583b00b
+This project builds a binary text classifier to distinguish **Fox News** from **NBC News** headlines, progressing from a TF-IDF baseline through classical feature engineering to fine-tuned transformer models. All code, data, and trained models are contained in this repository.
 
-Link to leaderboard: https://huggingface.co/spaces/cis4190/NewsHeadlineClassifier
-(All submissions start with "team_32" are our submissions.)
+- 📄 [LaTeX Report (Overleaf)](https://www.overleaf.com/project/69dee6a89637524f6583b00b)
+- 🏆 [Leaderboard](https://huggingface.co/spaces/cis4190/NewsHeadlineClassifier) — all our submissions start with `team_32`
 
 ## Getting Started
 

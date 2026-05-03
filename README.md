@@ -5,6 +5,7 @@ This project builds a binary text classifier to distinguish **Fox News** from **
 - 📊 [Dataset (Kaggle)](linkhere)
 - 📄 [LaTeX Report (Overleaf)](https://www.overleaf.com/project/69dee6a89637524f6583b00b)
 - 🏆 [Leaderboard](https://huggingface.co/spaces/cis4190/NewsHeadlineClassifier) — all our submissions start with `team_32`
+- 🎥 [Video Demo](linkhere)
 
 ---
 ## Getting Started

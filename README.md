@@ -96,9 +96,9 @@ CIS5190-Team-32-Repo/
 
 ---
 
-## Team
+## Meet Our Team
 
-**Team 32** — CIS 4190/5190 Applied Machine Learning, Spring 2026
+Team 32 — CIS 4190/5190 Applied Machine Learning, Spring 2026
 
 - Xiaoyang Jing — data collection, scraping, Hashing BoW model
 - Lesley Zhao — preprocessing, DistilBERT & RoBERTa fine-tuning, leaderboard submissions

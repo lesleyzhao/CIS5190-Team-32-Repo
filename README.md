@@ -51,6 +51,7 @@ python3 model.py
 python3 train.py
 python3 roberta.py
 python3 train_roberta.py
+python3 train_HashingBoWClassifier.py
 ```
 ---
 ## Project Structure

@@ -44,8 +44,6 @@ python3 tfidf_baseline.py
 model.py contains the best model DistillBERT so far.
 train.py is used for training with model.py.
 
-Other Experimental Models:
-- roberta.py and train_roberta.py
 ```bash
 python3 model.py
 python3 train.py

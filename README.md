@@ -66,8 +66,8 @@ CIS5190-Team-32-Repo/
 ├── scraped_headlines.csv              # Scraped raw headlines
 ├── scraped_headlines_clean_latest.csv # Cleaned, model-ready dataset
 │
-├── data_scraping.py                   # Web scraper (5-strategy headline extraction)
-├── data_cleaning.py                   # Standalone cleaning script
+├── data scraping.py                   # Web scraper (5-strategy headline extraction)
+├── data cleaning.py                   # Standalone cleaning script
 ├── preprocess.py                      # Full pipeline + leaderboard entry point
 │
 ├── tfidf_baseline.py                  # Course baseline (TF-IDF + LR, 100 features)

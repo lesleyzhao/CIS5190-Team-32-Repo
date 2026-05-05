@@ -42,6 +42,7 @@ python3 tfidf_baseline.py
 
 ### 6. Run Improved Models
 model.py contains the best model DistillBERT so far.
+
 train.py is used for training with model.py.
 ```bash
 # Train hashing bag-of-word model

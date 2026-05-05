@@ -50,6 +50,11 @@ python3 train.py
 python3 roberta.py
 python3 train_roberta.py
 python3 train_HashingBoWClassifier.py
+# Classical-model experiments and additional submission-ready candidate
+python3 baseline_experiments.py
+python3 train_char_ngram_logreg.py
+# baseline_experiments.py runs the classical model sweep and saves comparison metrics/plots.
+train_char_ngram_logreg.py trains the submission-ready character n-gram logistic regression candidate.
 ```
 ---
 ## Project Structure

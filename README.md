@@ -43,14 +43,20 @@ python3 tfidf_baseline.py
 ### 6. Run Improved Models
 model.py contains the best model DistillBERT so far.
 train.py is used for training with model.py.
-
 ```bash
-python3 model.py
-python3 train.py
-python3 roberta.py
-python3 train_roberta.py
+# Train hashing bag-of-word model
 python3 train_HashingBoWClassifier.py
 ```
+
+```bash
+# Train DistilBERT Model
+python3 model.py
+python3 train.py
+# Train Roberta Model
+python3 roberta.py
+python3 train_roberta.py
+```
+
 ```bash
 # Classical-model experiments and additional submission-ready candidate
 python3 baseline_experiments.py

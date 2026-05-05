@@ -50,6 +50,8 @@ python3 train.py
 python3 roberta.py
 python3 train_roberta.py
 python3 train_HashingBoWClassifier.py
+```
+```bash
 # Classical-model experiments and additional submission-ready candidate
 python3 baseline_experiments.py
 python3 train_char_ngram_logreg.py

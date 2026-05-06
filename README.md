@@ -5,7 +5,7 @@ This project builds a binary text classifier to distinguish **Fox News** from **
 - 📊 [Dataset (Huggingface)](https://huggingface.co/datasets/Lesleyyyyyyy/519-group32-news-data)
 - 📄 [LaTeX Report (Overleaf)](https://www.overleaf.com/project/69dee6a89637524f6583b00b)
 - 🏆 [Leaderboard](https://huggingface.co/spaces/cis4190/NewsHeadlineClassifier) — all our submissions start with `team_32`
-- 🎥 [Video Demo](linkhere)
+- 🎥 [Video Demo](https://drive.google.com/file/d/1c8mu3ThdrwsujanfVvhB9IrStvttIObc/view?usp=drive_link)
 
 ---
 ## Getting Started
